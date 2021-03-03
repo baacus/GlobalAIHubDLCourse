@@ -9,4 +9,6 @@ Repository for Global AI Hub Deep Learning Course
 
 **Email:** bayramy@outlook.com
 
+![This is a sample image](/img/ai_logo.png)
+
 ## The project will be added.
